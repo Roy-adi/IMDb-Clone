@@ -1,0 +1,80 @@
+@media (max-width: 767.98px){
+    .navbar-nav{
+        margin-left: unset;
+    }
+
+    .heroBannerContent{
+        width: 100%;
+        height: 32vh;
+    }
+
+    .heroBannerContent .title{
+        font-size: 20px;
+    }
+
+    .heroBannerContent .subTitle {
+        margin-top: 5px;
+        font-size: 18px;
+    }
+    .heroBannerContent .searchInput{
+        margin-top: 12px;
+
+    }
+
+    .releseDate.slide-date {
+        margin-left: 45px;
+    }
+
+    .card{
+        margin-top: -20px;
+    }
+    .sliding{
+        padding: 12px 0;
+    }
+
+    .runtime{
+        display: block;
+    }
+
+    .runtime h5{
+        font-size: 15px;
+    }
+
+    .tags{
+        display: block;
+    }
+    .tags h5{
+        font-size: 15px;
+    }
+
+    .md-rating{
+        align-items: center;
+    }
+
+    .movie-details .movie-title{
+        font-size: 29px;
+    }
+    .movie-details .movie-tagline{
+        font-size: 20px;
+    }
+    .movie-details .movie-overview{
+        font-size: 17px;
+        line-height: 1.5;
+    }
+    .recomended h3{
+        margin-top: -8px;
+    }
+
+    .tending-vote .CircularProgressbar {
+        width: 100% !important ;
+    }
+
+    .md-rating .CircularProgressbar{
+        width: 24%;
+    }
+
+    .clearIcon{
+        top:50%
+    }
+
+}
